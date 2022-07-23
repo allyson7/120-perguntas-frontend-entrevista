@@ -2,6 +2,8 @@
 # 120-perguntas-frontend
 
   <br/><br/>
+  
+  > PERGUNTAS COPIADAS PARA PODER RESPONDER DEPOIS
 
 ⬛ Níveis Junior, Pleno, Senior e Especialista
 
